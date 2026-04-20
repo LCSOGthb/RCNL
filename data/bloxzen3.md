@@ -4,6 +4,6 @@ Reported User: bloxzen3
 
 Reason for Report: Flying
 
-Video Reference: (Not available right now)
+Video Reference: [Youtube](https://youtu.be/pRb3IdLyKYA)
 
-Timestamps: (Not available right now)
+Timestamps: (I don't think we need this, the whole video is the point...)
