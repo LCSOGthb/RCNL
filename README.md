@@ -1,9 +1,9 @@
 # RCNL
-I created this is because of sick letting those cheater winning and trashing other peoples, but also nothing to do rather staring at my monitor thinking what should i do next. This repository main goal was provide a correct information and data for easier ban, check and verify.
+我创建这个仓库是因为实在受不了那些作弊者赢了游戏还诋毁其他玩家，而且除了盯着屏幕发呆之外也无事可做。这个仓库的主要目标是提供准确的信息和数据，以便更轻松地进行封禁、​​检查和验证。
 
-You could ask questions on "Discussions" tab or provide data on "Issues" tab.
+您可以在“讨论”标签页提问，或在“问题”标签页提交数据。
 
-"Pull requests" is enabled if you want to upload the information yourself. But still, it still needs me to confirm before it even gets adding into.
+如果您想自行上传信息，可以使用“拉取请求”功能。不过，您的信息仍然需要经过我的确认才能被添加进去。
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/LCSOGthb/RCNL)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/LCSOGthb/RCNL)
